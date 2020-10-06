@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<!DOCTYPE Портфолио PUBLIC "https://github.com/DanilaIsaichev/XMLT-001/edit/master/Part2/Task2.dtd"
-"/Part2/Task2.dtd">
+<!DOCTYPE Портфолио PUBLIC "-//IDO//DTD XMLT-001-Part2 Strict//RU"
+"https://github.com/DanilaIsaichev/XMLT-001/edit/master/Part2/Task2.dtd">
 <Портфолио>
    <Блок>
       <Заголовок>Портфолио по веб-проектированию</Заголовок>
